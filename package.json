@@ -1,0 +1,19 @@
+{
+  "name": "cgso_gps_apple_csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1"
+  }
+}
