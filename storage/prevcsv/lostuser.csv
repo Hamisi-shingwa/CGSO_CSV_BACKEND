@@ -1,7 +1,4 @@
 Date,"User loss (All users, All events, Per interval, Daily): All countries / regions","User loss (All users, All events, Per interval, Daily): United States","User loss (All users, All events, Per interval, Daily): India",Notes
-"Mar 4, 2020",0,0,0,
-"Mar 5, 2020",4,4,0,
-"Mar 6, 2020",5,5,0,
 "Mar 7, 2020",3,3,0,
 "Mar 8, 2020",0,0,0,
 "Mar 9, 2020",4,4,0,
@@ -1823,4 +1820,7 @@ Date,"User loss (All users, All events, Per interval, Daily): All countries / re
 "Feb 27, 2025",1,1,0,
 "Feb 28, 2025",2,2,0,
 "Mar 1, 2025",2,2,0,
-"Mar 2, 2025",0,0,0,
+"Mar 2, 2025",2,2,0,
+"Mar 3, 2025",1,1,0,
+"Mar 4, 2025",0,0,0,
+"Mar 5, 2025",4,4,0,
