@@ -16,7 +16,7 @@ const processUpload = async (files) => {
       let newFileName = file.originalname;
 
       if (content.includes("Installed audience")) {
-        newFileName = "installed_audience.csv";
+        newFileName = "Installed_audience.csv";
       } else if (content.includes("User acquisition")) {
         newFileName = "user_acquisition.csv";
       } else if (content.includes("User loss")) {

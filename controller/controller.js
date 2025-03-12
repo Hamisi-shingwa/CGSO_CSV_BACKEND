@@ -4,7 +4,7 @@ const csv = require('csv-parser');
 
 const processCSV = (filePath) => {
   return new Promise((resolve, reject) => {
-    const files = ['installed_audience.csv', 'user_acquisition.csv', 'lostuser.csv'];
+    const files = ['Installed_audience.csv', 'user_acquisition.csv', 'lostuser.csv'];
     let result = [];
     let dates = {};
     let filesProcessed = 0;
